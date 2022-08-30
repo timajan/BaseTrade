@@ -1,0 +1,4110 @@
+{
+    "AED": [
+        {
+            "rate": 1.0,
+            "source": "AED",
+            "target": "AED",
+            "time": "2022-08-25T11:54:33+0000"
+        },
+        {
+            "rate": 0.390361,
+            "source": "AED",
+            "target": "AUD",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.53361,
+            "source": "AED",
+            "target": "BGN",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 1.39161,
+            "source": "AED",
+            "target": "BRL",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.351661,
+            "source": "AED",
+            "target": "CAD",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.262429,
+            "source": "AED",
+            "target": "CHF",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 6.72566,
+            "source": "AED",
+            "target": "CZK",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 2.02958,
+            "source": "AED",
+            "target": "DKK",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.272885,
+            "source": "AED",
+            "target": "EUR",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.230044,
+            "source": "AED",
+            "target": "GBP",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 2.13639,
+            "source": "AED",
+            "target": "HKD",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 2.05039,
+            "source": "AED",
+            "target": "HRK",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 111.382,
+            "source": "AED",
+            "target": "HUF",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 4035.53,
+            "source": "AED",
+            "target": "IDR",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 21.7491,
+            "source": "AED",
+            "target": "INR",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 37.1345,
+            "source": "AED",
+            "target": "JPY",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 1.21753,
+            "source": "AED",
+            "target": "MYR",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 2.62693,
+            "source": "AED",
+            "target": "NOK",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.436449,
+            "source": "AED",
+            "target": "NZD",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 1.29717,
+            "source": "AED",
+            "target": "PLN",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 1.33064,
+            "source": "AED",
+            "target": "RON",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 2.87831,
+            "source": "AED",
+            "target": "SEK",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.378179,
+            "source": "AED",
+            "target": "SGD",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 4.94451,
+            "source": "AED",
+            "target": "TRY",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 9.95606,
+            "source": "AED",
+            "target": "UAH",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.272257,
+            "source": "AED",
+            "target": "USD",
+            "time": "2022-08-25T11:53:58+0000"
+        }
+    ],
+    "AUD": [
+        {
+            "rate": 2.56173,
+            "source": "AUD",
+            "target": "AED",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 1.0,
+            "source": "AUD",
+            "target": "AUD",
+            "time": "2022-08-25T11:54:41+0000"
+        },
+        {
+            "rate": 1.36697,
+            "source": "AUD",
+            "target": "BGN",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 3.56495,
+            "source": "AUD",
+            "target": "BRL",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.900861,
+            "source": "AUD",
+            "target": "CAD",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.672272,
+            "source": "AUD",
+            "target": "CHF",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 17.2258,
+            "source": "AUD",
+            "target": "CZK",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 5.19818,
+            "source": "AUD",
+            "target": "DKK",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.699058,
+            "source": "AUD",
+            "target": "EUR",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.589311,
+            "source": "AUD",
+            "target": "GBP",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 5.47286,
+            "source": "AUD",
+            "target": "HKD",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 5.25257,
+            "source": "AUD",
+            "target": "HRK",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 285.272,
+            "source": "AUD",
+            "target": "HUF",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 10338.0,
+            "source": "AUD",
+            "target": "IDR",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 55.7154,
+            "source": "AUD",
+            "target": "INR",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 95.1287,
+            "source": "AUD",
+            "target": "JPY",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 3.119,
+            "source": "AUD",
+            "target": "MYR",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 6.7281,
+            "source": "AUD",
+            "target": "NOK",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 1.11807,
+            "source": "AUD",
+            "target": "NZD",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 3.323,
+            "source": "AUD",
+            "target": "PLN",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 3.40805,
+            "source": "AUD",
+            "target": "RON",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 7.37198,
+            "source": "AUD",
+            "target": "SEK",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.968793,
+            "source": "AUD",
+            "target": "SGD",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 12.6665,
+            "source": "AUD",
+            "target": "TRY",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 25.5048,
+            "source": "AUD",
+            "target": "UAH",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.69745,
+            "source": "AUD",
+            "target": "USD",
+            "time": "2022-08-25T11:53:58+0000"
+        }
+    ],
+    "BGN": [
+        {
+            "rate": 1.87403,
+            "source": "BGN",
+            "target": "AED",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.731546,
+            "source": "BGN",
+            "target": "AUD",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 1.0,
+            "source": "BGN",
+            "target": "BGN",
+            "time": "2022-08-25T11:54:46+0000"
+        },
+        {
+            "rate": 2.60792,
+            "source": "BGN",
+            "target": "BRL",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.659022,
+            "source": "BGN",
+            "target": "CAD",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.491798,
+            "source": "BGN",
+            "target": "CHF",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 12.6041,
+            "source": "BGN",
+            "target": "CZK",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 3.80271,
+            "source": "BGN",
+            "target": "DKK",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.511393,
+            "source": "BGN",
+            "target": "EUR",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.431109,
+            "source": "BGN",
+            "target": "GBP",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 4.00365,
+            "source": "BGN",
+            "target": "HKD",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 3.8425,
+            "source": "BGN",
+            "target": "HRK",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 208.69,
+            "source": "BGN",
+            "target": "HUF",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 7562.69,
+            "source": "BGN",
+            "target": "IDR",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 40.7584,
+            "source": "BGN",
+            "target": "INR",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 69.5911,
+            "source": "BGN",
+            "target": "JPY",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 2.28169,
+            "source": "BGN",
+            "target": "MYR",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 4.92192,
+            "source": "BGN",
+            "target": "NOK",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.817918,
+            "source": "BGN",
+            "target": "NZD",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 2.43093,
+            "source": "BGN",
+            "target": "PLN",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 2.49315,
+            "source": "BGN",
+            "target": "RON",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 5.39294,
+            "source": "BGN",
+            "target": "SEK",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.708717,
+            "source": "BGN",
+            "target": "SGD",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 9.26615,
+            "source": "BGN",
+            "target": "TRY",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 18.6579,
+            "source": "BGN",
+            "target": "UAH",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.510217,
+            "source": "BGN",
+            "target": "USD",
+            "time": "2022-08-25T11:53:58+0000"
+        }
+    ],
+    "BRL": [
+        {
+            "rate": 0.71859,
+            "source": "BRL",
+            "target": "AED",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.280509,
+            "source": "BRL",
+            "target": "AUD",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.383447,
+            "source": "BRL",
+            "target": "BGN",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 1.0,
+            "source": "BRL",
+            "target": "BRL",
+            "time": "2022-08-25T11:54:52+0000"
+        },
+        {
+            "rate": 0.2527,
+            "source": "BRL",
+            "target": "CAD",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.188578,
+            "source": "BRL",
+            "target": "CHF",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 4.83299,
+            "source": "BRL",
+            "target": "CZK",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 1.45844,
+            "source": "BRL",
+            "target": "DKK",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.196092,
+            "source": "BRL",
+            "target": "EUR",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.165307,
+            "source": "BRL",
+            "target": "GBP",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 1.53519,
+            "source": "BRL",
+            "target": "HKD",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 1.47339,
+            "source": "BRL",
+            "target": "HRK",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 80.038,
+            "source": "BRL",
+            "target": "HUF",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 2899.89,
+            "source": "BRL",
+            "target": "IDR",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 15.6287,
+            "source": "BRL",
+            "target": "INR",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 26.6845,
+            "source": "BRL",
+            "target": "JPY",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.874907,
+            "source": "BRL",
+            "target": "MYR",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 1.88768,
+            "source": "BRL",
+            "target": "NOK",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.313628,
+            "source": "BRL",
+            "target": "NZD",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.932132,
+            "source": "BRL",
+            "target": "PLN",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.956185,
+            "source": "BRL",
+            "target": "RON",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 2.06832,
+            "source": "BRL",
+            "target": "SEK",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.271755,
+            "source": "BRL",
+            "target": "SGD",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 3.55308,
+            "source": "BRL",
+            "target": "TRY",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 7.15432,
+            "source": "BRL",
+            "target": "UAH",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 0.195641,
+            "source": "BRL",
+            "target": "USD",
+            "time": "2022-08-25T11:53:58+0000"
+        }
+    ],
+    "CAD": [
+        {
+            "rate": 2.84365,
+            "source": "CAD",
+            "target": "AED",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 1.11005,
+            "source": "CAD",
+            "target": "AUD",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 1.5174,
+            "source": "CAD",
+            "target": "BGN",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 3.95726,
+            "source": "CAD",
+            "target": "BRL",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 1.0,
+            "source": "CAD",
+            "target": "CAD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.746255,
+            "source": "CAD",
+            "target": "CHF",
+            "time": "2022-08-25T11:53:58+0000"
+        },
+        {
+            "rate": 19.1267,
+            "source": "CAD",
+            "target": "CZK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 5.77142,
+            "source": "CAD",
+            "target": "DKK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.775994,
+            "source": "CAD",
+            "target": "EUR",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.654204,
+            "source": "CAD",
+            "target": "GBP",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 6.07396,
+            "source": "CAD",
+            "target": "HKD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 5.83122,
+            "source": "CAD",
+            "target": "HRK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 316.621,
+            "source": "CAD",
+            "target": "HUF",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 11473.4,
+            "source": "CAD",
+            "target": "IDR",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 61.8388,
+            "source": "CAD",
+            "target": "INR",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 105.593,
+            "source": "CAD",
+            "target": "JPY",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 3.46157,
+            "source": "CAD",
+            "target": "MYR",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 7.47162,
+            "source": "CAD",
+            "target": "NOK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.24147,
+            "source": "CAD",
+            "target": "NZD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 3.68933,
+            "source": "CAD",
+            "target": "PLN",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 3.78355,
+            "source": "CAD",
+            "target": "RON",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 8.18511,
+            "source": "CAD",
+            "target": "SEK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.07551,
+            "source": "CAD",
+            "target": "SGD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 14.0589,
+            "source": "CAD",
+            "target": "TRY",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 28.3061,
+            "source": "CAD",
+            "target": "UAH",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.774054,
+            "source": "CAD",
+            "target": "USD",
+            "time": "2022-08-25T11:54:59+0000"
+        }
+    ],
+    "CHF": [
+        {
+            "rate": 3.81017,
+            "source": "CHF",
+            "target": "AED",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.48798,
+            "source": "CHF",
+            "target": "AUD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 2.03392,
+            "source": "CHF",
+            "target": "BGN",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 5.30228,
+            "source": "CHF",
+            "target": "BRL",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.34015,
+            "source": "CHF",
+            "target": "CAD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.0,
+            "source": "CHF",
+            "target": "CHF",
+            "time": "2022-08-25T11:55:08+0000"
+        },
+        {
+            "rate": 25.6323,
+            "source": "CHF",
+            "target": "CZK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 7.73445,
+            "source": "CHF",
+            "target": "DKK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.03993,
+            "source": "CHF",
+            "target": "EUR",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.876664,
+            "source": "CHF",
+            "target": "GBP",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 8.13999,
+            "source": "CHF",
+            "target": "HKD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 7.81468,
+            "source": "CHF",
+            "target": "HRK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 424.314,
+            "source": "CHF",
+            "target": "HUF",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 15376.0,
+            "source": "CHF",
+            "target": "IDR",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 82.8729,
+            "source": "CHF",
+            "target": "INR",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 141.509,
+            "source": "CHF",
+            "target": "JPY",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 4.639,
+            "source": "CHF",
+            "target": "MYR",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 10.0129,
+            "source": "CHF",
+            "target": "NOK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.66374,
+            "source": "CHF",
+            "target": "NZD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 4.94416,
+            "source": "CHF",
+            "target": "PLN",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 5.07046,
+            "source": "CHF",
+            "target": "RON",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 10.9691,
+            "source": "CHF",
+            "target": "SEK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.44134,
+            "source": "CHF",
+            "target": "SGD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 18.841,
+            "source": "CHF",
+            "target": "TRY",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 37.9342,
+            "source": "CHF",
+            "target": "UAH",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.03734,
+            "source": "CHF",
+            "target": "USD",
+            "time": "2022-08-25T11:54:59+0000"
+        }
+    ],
+    "CZK": [
+        {
+            "rate": 0.148646,
+            "source": "CZK",
+            "target": "AED",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.0580508,
+            "source": "CZK",
+            "target": "AUD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.0793492,
+            "source": "CZK",
+            "target": "BGN",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.206857,
+            "source": "CZK",
+            "target": "BRL",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.0522829,
+            "source": "CZK",
+            "target": "CAD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.0390133,
+            "source": "CZK",
+            "target": "CHF",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.0,
+            "source": "CZK",
+            "target": "CZK",
+            "time": "2022-08-25T11:55:16+0000"
+        },
+        {
+            "rate": 0.301747,
+            "source": "CZK",
+            "target": "DKK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.0405712,
+            "source": "CZK",
+            "target": "EUR",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.0342016,
+            "source": "CZK",
+            "target": "GBP",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.317565,
+            "source": "CZK",
+            "target": "HKD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.304873,
+            "source": "CZK",
+            "target": "HRK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 16.5539,
+            "source": "CZK",
+            "target": "HUF",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 599.862,
+            "source": "CZK",
+            "target": "IDR",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 3.23311,
+            "source": "CZK",
+            "target": "INR",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 5.52033,
+            "source": "CZK",
+            "target": "JPY",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.180981,
+            "source": "CZK",
+            "target": "MYR",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.390638,
+            "source": "CZK",
+            "target": "NOK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.0649075,
+            "source": "CZK",
+            "target": "NZD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.192888,
+            "source": "CZK",
+            "target": "PLN",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.197815,
+            "source": "CZK",
+            "target": "RON",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.427941,
+            "source": "CZK",
+            "target": "SEK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.0562309,
+            "source": "CZK",
+            "target": "SGD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.735041,
+            "source": "CZK",
+            "target": "TRY",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.47993,
+            "source": "CZK",
+            "target": "UAH",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.0404701,
+            "source": "CZK",
+            "target": "USD",
+            "time": "2022-08-25T11:54:59+0000"
+        }
+    ],
+    "DKK": [
+        {
+            "rate": 0.492618,
+            "source": "DKK",
+            "target": "AED",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.192382,
+            "source": "DKK",
+            "target": "AUD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.262968,
+            "source": "DKK",
+            "target": "BGN",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.685533,
+            "source": "DKK",
+            "target": "BRL",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.173268,
+            "source": "DKK",
+            "target": "CAD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.129292,
+            "source": "DKK",
+            "target": "CHF",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 3.31404,
+            "source": "DKK",
+            "target": "CZK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.0,
+            "source": "DKK",
+            "target": "DKK",
+            "time": "2022-08-25T11:55:22+0000"
+        },
+        {
+            "rate": 0.134455,
+            "source": "DKK",
+            "target": "EUR",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.113345,
+            "source": "DKK",
+            "target": "GBP",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.05243,
+            "source": "DKK",
+            "target": "HKD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.01037,
+            "source": "DKK",
+            "target": "HRK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 54.8602,
+            "source": "DKK",
+            "target": "HUF",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1987.99,
+            "source": "DKK",
+            "target": "IDR",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 10.7147,
+            "source": "DKK",
+            "target": "INR",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 18.2946,
+            "source": "DKK",
+            "target": "JPY",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.599782,
+            "source": "DKK",
+            "target": "MYR",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.29459,
+            "source": "DKK",
+            "target": "NOK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.215107,
+            "source": "DKK",
+            "target": "NZD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.639238,
+            "source": "DKK",
+            "target": "PLN",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.655567,
+            "source": "DKK",
+            "target": "RON",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.41821,
+            "source": "DKK",
+            "target": "SEK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.186352,
+            "source": "DKK",
+            "target": "SGD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 2.43597,
+            "source": "DKK",
+            "target": "TRY",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 4.90456,
+            "source": "DKK",
+            "target": "UAH",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.134119,
+            "source": "DKK",
+            "target": "USD",
+            "time": "2022-08-25T11:54:59+0000"
+        }
+    ],
+    "EUR": [
+        {
+            "rate": 3.66382,
+            "source": "EUR",
+            "target": "AED",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.43083,
+            "source": "EUR",
+            "target": "AUD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.9558,
+            "source": "EUR",
+            "target": "BGN",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 5.09862,
+            "source": "EUR",
+            "target": "BRL",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.28867,
+            "source": "EUR",
+            "target": "CAD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.9616,
+            "source": "EUR",
+            "target": "CHF",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 24.648,
+            "source": "EUR",
+            "target": "CZK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 7.43745,
+            "source": "EUR",
+            "target": "DKK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.0,
+            "source": "EUR",
+            "target": "EUR",
+            "time": "2022-08-25T11:55:31+0000"
+        },
+        {
+            "rate": 0.843,
+            "source": "EUR",
+            "target": "GBP",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 7.82733,
+            "source": "EUR",
+            "target": "HKD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 7.51452,
+            "source": "EUR",
+            "target": "HRK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 408.02,
+            "source": "EUR",
+            "target": "HUF",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 14785.4,
+            "source": "EUR",
+            "target": "IDR",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 79.6898,
+            "source": "EUR",
+            "target": "INR",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 136.065,
+            "source": "EUR",
+            "target": "JPY",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 4.46082,
+            "source": "EUR",
+            "target": "MYR",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 9.62845,
+            "source": "EUR",
+            "target": "NOK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.59984,
+            "source": "EUR",
+            "target": "NZD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 4.7543,
+            "source": "EUR",
+            "target": "PLN",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 4.87575,
+            "source": "EUR",
+            "target": "RON",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 10.5479,
+            "source": "EUR",
+            "target": "SEK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.38598,
+            "source": "EUR",
+            "target": "SGD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 18.1173,
+            "source": "EUR",
+            "target": "TRY",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 36.4772,
+            "source": "EUR",
+            "target": "UAH",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.9975,
+            "source": "EUR",
+            "target": "USD",
+            "time": "2022-08-25T11:54:59+0000"
+        }
+    ],
+    "GBP": [
+        {
+            "rate": 4.34589,
+            "source": "GBP",
+            "target": "AED",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.6972,
+            "source": "GBP",
+            "target": "AUD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 2.3199,
+            "source": "GBP",
+            "target": "BGN",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 6.04781,
+            "source": "GBP",
+            "target": "BRL",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.52858,
+            "source": "GBP",
+            "target": "CAD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.14069,
+            "source": "GBP",
+            "target": "CHF",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 29.2384,
+            "source": "GBP",
+            "target": "CZK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 8.8226,
+            "source": "GBP",
+            "target": "DKK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.18624,
+            "source": "GBP",
+            "target": "EUR",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.0,
+            "source": "GBP",
+            "target": "GBP",
+            "time": "2022-08-25T11:55:39+0000"
+        },
+        {
+            "rate": 9.28451,
+            "source": "GBP",
+            "target": "HKD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 8.91346,
+            "source": "GBP",
+            "target": "HRK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 484.009,
+            "source": "GBP",
+            "target": "HUF",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 17538.0,
+            "source": "GBP",
+            "target": "IDR",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 94.5253,
+            "source": "GBP",
+            "target": "INR",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 161.406,
+            "source": "GBP",
+            "target": "JPY",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 5.29127,
+            "source": "GBP",
+            "target": "MYR",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 11.4216,
+            "source": "GBP",
+            "target": "NOK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.89767,
+            "source": "GBP",
+            "target": "NZD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 5.63974,
+            "source": "GBP",
+            "target": "PLN",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 5.78381,
+            "source": "GBP",
+            "target": "RON",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 12.5123,
+            "source": "GBP",
+            "target": "SEK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.644,
+            "source": "GBP",
+            "target": "SGD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 21.4901,
+            "source": "GBP",
+            "target": "TRY",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 43.268,
+            "source": "GBP",
+            "target": "UAH",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.1832,
+            "source": "GBP",
+            "target": "USD",
+            "time": "2022-08-25T11:54:59+0000"
+        }
+    ],
+    "HKD": [
+        {
+            "rate": 0.46808,
+            "source": "HKD",
+            "target": "AED",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.182799,
+            "source": "HKD",
+            "target": "AUD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.249868,
+            "source": "HKD",
+            "target": "BGN",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.651387,
+            "source": "HKD",
+            "target": "BRL",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.164637,
+            "source": "HKD",
+            "target": "CAD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.12285,
+            "source": "HKD",
+            "target": "CHF",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 3.14897,
+            "source": "HKD",
+            "target": "CZK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.950183,
+            "source": "HKD",
+            "target": "DKK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.127757,
+            "source": "HKD",
+            "target": "EUR",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.107706,
+            "source": "HKD",
+            "target": "GBP",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.0,
+            "source": "HKD",
+            "target": "HKD",
+            "time": "2022-08-25T11:55:47+0000"
+        },
+        {
+            "rate": 0.960035,
+            "source": "HKD",
+            "target": "HRK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 52.1273,
+            "source": "HKD",
+            "target": "HUF",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1888.95,
+            "source": "HKD",
+            "target": "IDR",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 10.181,
+            "source": "HKD",
+            "target": "INR",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 17.3845,
+            "source": "HKD",
+            "target": "JPY",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.569903,
+            "source": "HKD",
+            "target": "MYR",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.23011,
+            "source": "HKD",
+            "target": "NOK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.204391,
+            "source": "HKD",
+            "target": "NZD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.607402,
+            "source": "HKD",
+            "target": "PLN",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.622914,
+            "source": "HKD",
+            "target": "RON",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.34757,
+            "source": "HKD",
+            "target": "SEK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.177069,
+            "source": "HKD",
+            "target": "SGD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 2.31462,
+            "source": "HKD",
+            "target": "TRY",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 4.66023,
+            "source": "HKD",
+            "target": "UAH",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.127438,
+            "source": "HKD",
+            "target": "USD",
+            "time": "2022-08-25T11:54:59+0000"
+        }
+    ],
+    "HRK": [
+        {
+            "rate": 0.487565,
+            "source": "HRK",
+            "target": "AED",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.190408,
+            "source": "HRK",
+            "target": "AUD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.260269,
+            "source": "HRK",
+            "target": "BGN",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.678503,
+            "source": "HRK",
+            "target": "BRL",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.171491,
+            "source": "HRK",
+            "target": "CAD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.127964,
+            "source": "HRK",
+            "target": "CHF",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 3.28005,
+            "source": "HRK",
+            "target": "CZK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.989738,
+            "source": "HRK",
+            "target": "DKK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.133076,
+            "source": "HRK",
+            "target": "EUR",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.11219,
+            "source": "HRK",
+            "target": "GBP",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.04163,
+            "source": "HRK",
+            "target": "HKD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.0,
+            "source": "HRK",
+            "target": "HRK",
+            "time": "2022-08-25T11:55:57+0000"
+        },
+        {
+            "rate": 54.2972,
+            "source": "HRK",
+            "target": "HUF",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1967.58,
+            "source": "HRK",
+            "target": "IDR",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 10.6048,
+            "source": "HRK",
+            "target": "INR",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 18.1081,
+            "source": "HRK",
+            "target": "JPY",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.593627,
+            "source": "HRK",
+            "target": "MYR",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.28131,
+            "source": "HRK",
+            "target": "NOK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.2129,
+            "source": "HRK",
+            "target": "NZD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.632687,
+            "source": "HRK",
+            "target": "PLN",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.64884,
+            "source": "HRK",
+            "target": "RON",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 1.40367,
+            "source": "HRK",
+            "target": "SEK",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.18444,
+            "source": "HRK",
+            "target": "SGD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 2.41097,
+            "source": "HRK",
+            "target": "TRY",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 4.85423,
+            "source": "HRK",
+            "target": "UAH",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.132743,
+            "source": "HRK",
+            "target": "USD",
+            "time": "2022-08-25T11:54:59+0000"
+        }
+    ],
+    "HUF": [
+        {
+            "rate": 0.00897951,
+            "source": "HUF",
+            "target": "AED",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.00350678,
+            "source": "HUF",
+            "target": "AUD",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.00479342,
+            "source": "HUF",
+            "target": "BGN",
+            "time": "2022-08-25T11:54:59+0000"
+        },
+        {
+            "rate": 0.0124961,
+            "source": "HUF",
+            "target": "BRL",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.003158,
+            "source": "HUF",
+            "target": "CAD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.00235641,
+            "source": "HUF",
+            "target": "CHF",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0603908,
+            "source": "HUF",
+            "target": "CZK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0182248,
+            "source": "HUF",
+            "target": "DKK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.00245038,
+            "source": "HUF",
+            "target": "EUR",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.00206579,
+            "source": "HUF",
+            "target": "GBP",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0191839,
+            "source": "HUF",
+            "target": "HKD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0184154,
+            "source": "HUF",
+            "target": "HRK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 1.0,
+            "source": "HUF",
+            "target": "HUF",
+            "time": "2022-08-25T11:56:04+0000"
+        },
+        {
+            "rate": 36.2374,
+            "source": "HUF",
+            "target": "IDR",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.195335,
+            "source": "HUF",
+            "target": "INR",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.333448,
+            "source": "HUF",
+            "target": "JPY",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0109329,
+            "source": "HUF",
+            "target": "MYR",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0236076,
+            "source": "HUF",
+            "target": "NOK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.00392039,
+            "source": "HUF",
+            "target": "NZD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0116487,
+            "source": "HUF",
+            "target": "PLN",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0119496,
+            "source": "HUF",
+            "target": "RON",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0258461,
+            "source": "HUF",
+            "target": "SEK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.00339662,
+            "source": "HUF",
+            "target": "SGD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0444046,
+            "source": "HUF",
+            "target": "TRY",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0894009,
+            "source": "HUF",
+            "target": "UAH",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.00244476,
+            "source": "HUF",
+            "target": "USD",
+            "time": "2022-08-25T11:56:00+0000"
+        }
+    ],
+    "IDR": [
+        {
+            "rate": 0.000247799,
+            "source": "IDR",
+            "target": "AED",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 9.67518e-05,
+            "source": "IDR",
+            "target": "AUD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.000132258,
+            "source": "IDR",
+            "target": "BGN",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.000344841,
+            "source": "IDR",
+            "target": "BRL",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 8.71479e-05,
+            "source": "IDR",
+            "target": "CAD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 6.50295e-05,
+            "source": "IDR",
+            "target": "CHF",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.00166654,
+            "source": "IDR",
+            "target": "CZK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.000502929,
+            "source": "IDR",
+            "target": "DKK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 6.76205e-05,
+            "source": "IDR",
+            "target": "EUR",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 5.70095e-05,
+            "source": "IDR",
+            "target": "GBP",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.000529395,
+            "source": "IDR",
+            "target": "HKD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.000508187,
+            "source": "IDR",
+            "target": "HRK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0275958,
+            "source": "IDR",
+            "target": "HUF",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 1.0,
+            "source": "IDR",
+            "target": "IDR",
+            "time": "2022-08-25T11:56:14+0000"
+        },
+        {
+            "rate": 0.00539042,
+            "source": "IDR",
+            "target": "INR",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.00920121,
+            "source": "IDR",
+            "target": "JPY",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.000301703,
+            "source": "IDR",
+            "target": "MYR",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.00065147,
+            "source": "IDR",
+            "target": "NOK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.000108186,
+            "source": "IDR",
+            "target": "NZD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.000321491,
+            "source": "IDR",
+            "target": "PLN",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.00032976,
+            "source": "IDR",
+            "target": "RON",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.000713247,
+            "source": "IDR",
+            "target": "SEK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 9.37325e-05,
+            "source": "IDR",
+            "target": "SGD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.00122538,
+            "source": "IDR",
+            "target": "TRY",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0024671,
+            "source": "IDR",
+            "target": "UAH",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 6.7465e-05,
+            "source": "IDR",
+            "target": "USD",
+            "time": "2022-08-25T11:56:00+0000"
+        }
+    ],
+    "INR": [
+        {
+            "rate": 0.0459703,
+            "source": "INR",
+            "target": "AED",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0179488,
+            "source": "INR",
+            "target": "AUD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0245358,
+            "source": "INR",
+            "target": "BGN",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0639729,
+            "source": "INR",
+            "target": "BRL",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0161672,
+            "source": "INR",
+            "target": "CAD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0120639,
+            "source": "INR",
+            "target": "CHF",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.309167,
+            "source": "INR",
+            "target": "CZK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0933005,
+            "source": "INR",
+            "target": "DKK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0125446,
+            "source": "INR",
+            "target": "EUR",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0105761,
+            "source": "INR",
+            "target": "GBP",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0982103,
+            "source": "INR",
+            "target": "HKD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0942759,
+            "source": "INR",
+            "target": "HRK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 5.11942,
+            "source": "INR",
+            "target": "HUF",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 185.514,
+            "source": "INR",
+            "target": "IDR",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 1.0,
+            "source": "INR",
+            "target": "INR",
+            "time": "2022-08-25T11:56:21+0000"
+        },
+        {
+            "rate": 1.70696,
+            "source": "INR",
+            "target": "JPY",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0559703,
+            "source": "INR",
+            "target": "MYR",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.120857,
+            "source": "INR",
+            "target": "NOK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0200701,
+            "source": "INR",
+            "target": "NZD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0596412,
+            "source": "INR",
+            "target": "PLN",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0611752,
+            "source": "INR",
+            "target": "RON",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.132317,
+            "source": "INR",
+            "target": "SEK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0173887,
+            "source": "INR",
+            "target": "SGD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.227326,
+            "source": "INR",
+            "target": "TRY",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.457682,
+            "source": "INR",
+            "target": "UAH",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0125157,
+            "source": "INR",
+            "target": "USD",
+            "time": "2022-08-25T11:56:00+0000"
+        }
+    ],
+    "JPY": [
+        {
+            "rate": 0.0269311,
+            "source": "JPY",
+            "target": "AED",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0105151,
+            "source": "JPY",
+            "target": "AUD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.014374,
+            "source": "JPY",
+            "target": "BGN",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0374777,
+            "source": "JPY",
+            "target": "BRL",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.00947135,
+            "source": "JPY",
+            "target": "CAD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.00706749,
+            "source": "JPY",
+            "target": "CHF",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.18111,
+            "source": "JPY",
+            "target": "CZK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0546557,
+            "source": "JPY",
+            "target": "DKK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.00734862,
+            "source": "JPY",
+            "target": "EUR",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.00619586,
+            "source": "JPY",
+            "target": "GBP",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0575353,
+            "source": "JPY",
+            "target": "HKD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0552304,
+            "source": "JPY",
+            "target": "HRK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 2.99897,
+            "source": "JPY",
+            "target": "HUF",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 108.681,
+            "source": "JPY",
+            "target": "IDR",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.585838,
+            "source": "JPY",
+            "target": "INR",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 1.0,
+            "source": "JPY",
+            "target": "JPY",
+            "time": "2022-08-25T11:56:31+0000"
+        },
+        {
+            "rate": 0.0327895,
+            "source": "JPY",
+            "target": "MYR",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0707984,
+            "source": "JPY",
+            "target": "NOK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0117578,
+            "source": "JPY",
+            "target": "NZD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0349342,
+            "source": "JPY",
+            "target": "PLN",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0358366,
+            "source": "JPY",
+            "target": "RON",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0775118,
+            "source": "JPY",
+            "target": "SEK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.010187,
+            "source": "JPY",
+            "target": "SGD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.133176,
+            "source": "JPY",
+            "target": "TRY",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.268128,
+            "source": "JPY",
+            "target": "UAH",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.00733218,
+            "source": "JPY",
+            "target": "USD",
+            "time": "2022-08-25T11:56:00+0000"
+        }
+    ],
+    "MYR": [
+        {
+            "rate": 0.821333,
+            "source": "MYR",
+            "target": "AED",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.320685,
+            "source": "MYR",
+            "target": "AUD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.438372,
+            "source": "MYR",
+            "target": "BGN",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 1.14298,
+            "source": "MYR",
+            "target": "BRL",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.288853,
+            "source": "MYR",
+            "target": "CAD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.215541,
+            "source": "MYR",
+            "target": "CHF",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 5.52378,
+            "source": "MYR",
+            "target": "CZK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 1.66696,
+            "source": "MYR",
+            "target": "DKK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.224129,
+            "source": "MYR",
+            "target": "EUR",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.188959,
+            "source": "MYR",
+            "target": "GBP",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 1.75468,
+            "source": "MYR",
+            "target": "HKD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 1.68439,
+            "source": "MYR",
+            "target": "HRK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 91.4672,
+            "source": "MYR",
+            "target": "HUF",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 3314.51,
+            "source": "MYR",
+            "target": "IDR",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 17.8666,
+            "source": "MYR",
+            "target": "INR",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 30.4975,
+            "source": "MYR",
+            "target": "JPY",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 1.0,
+            "source": "MYR",
+            "target": "MYR",
+            "time": "2022-08-25T11:56:41+0000"
+        },
+        {
+            "rate": 2.15932,
+            "source": "MYR",
+            "target": "NOK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.358585,
+            "source": "MYR",
+            "target": "NZD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 1.06559,
+            "source": "MYR",
+            "target": "PLN",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 1.093,
+            "source": "MYR",
+            "target": "RON",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 2.36407,
+            "source": "MYR",
+            "target": "SEK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.310678,
+            "source": "MYR",
+            "target": "SGD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 4.06154,
+            "source": "MYR",
+            "target": "TRY",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 8.17724,
+            "source": "MYR",
+            "target": "UAH",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.223614,
+            "source": "MYR",
+            "target": "USD",
+            "time": "2022-08-25T11:56:00+0000"
+        }
+    ],
+    "NOK": [
+        {
+            "rate": 0.380367,
+            "source": "NOK",
+            "target": "AED",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.148513,
+            "source": "NOK",
+            "target": "AUD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.203015,
+            "source": "NOK",
+            "target": "BGN",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.529324,
+            "source": "NOK",
+            "target": "BRL",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.133771,
+            "source": "NOK",
+            "target": "CAD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0998158,
+            "source": "NOK",
+            "target": "CHF",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 2.55811,
+            "source": "NOK",
+            "target": "CZK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.771991,
+            "source": "NOK",
+            "target": "DKK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.103796,
+            "source": "NOK",
+            "target": "EUR",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.0875055,
+            "source": "NOK",
+            "target": "GBP",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.812611,
+            "source": "NOK",
+            "target": "HKD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.780062,
+            "source": "NOK",
+            "target": "HRK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 42.3593,
+            "source": "NOK",
+            "target": "HUF",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 1534.99,
+            "source": "NOK",
+            "target": "IDR",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 8.27424,
+            "source": "NOK",
+            "target": "INR",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 14.1246,
+            "source": "NOK",
+            "target": "JPY",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.463109,
+            "source": "NOK",
+            "target": "MYR",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 1.0,
+            "source": "NOK",
+            "target": "NOK",
+            "time": "2022-08-25T11:56:49+0000"
+        },
+        {
+            "rate": 0.166065,
+            "source": "NOK",
+            "target": "NZD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.493432,
+            "source": "NOK",
+            "target": "PLN",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.506178,
+            "source": "NOK",
+            "target": "RON",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 1.09482,
+            "source": "NOK",
+            "target": "SEK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.143879,
+            "source": "NOK",
+            "target": "SGD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 1.88095,
+            "source": "NOK",
+            "target": "TRY",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 3.78696,
+            "source": "NOK",
+            "target": "UAH",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.103558,
+            "source": "NOK",
+            "target": "USD",
+            "time": "2022-08-25T11:56:00+0000"
+        }
+    ],
+    "NZD": [
+        {
+            "rate": 2.29048,
+            "source": "NZD",
+            "target": "AED",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.894307,
+            "source": "NZD",
+            "target": "AUD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 1.22251,
+            "source": "NZD",
+            "target": "BGN",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 3.18747,
+            "source": "NZD",
+            "target": "BRL",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.805535,
+            "source": "NZD",
+            "target": "CAD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.601088,
+            "source": "NZD",
+            "target": "CHF",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 15.4044,
+            "source": "NZD",
+            "target": "CZK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 4.64873,
+            "source": "NZD",
+            "target": "DKK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.625038,
+            "source": "NZD",
+            "target": "EUR",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.526956,
+            "source": "NZD",
+            "target": "GBP",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 4.89336,
+            "source": "NZD",
+            "target": "HKD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 4.69733,
+            "source": "NZD",
+            "target": "HRK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 255.077,
+            "source": "NZD",
+            "target": "HUF",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 9243.31,
+            "source": "NZD",
+            "target": "IDR",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 49.8253,
+            "source": "NZD",
+            "target": "INR",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 85.0497,
+            "source": "NZD",
+            "target": "JPY",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 2.78874,
+            "source": "NZD",
+            "target": "MYR",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 6.02174,
+            "source": "NZD",
+            "target": "NOK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 1.0,
+            "source": "NZD",
+            "target": "NZD",
+            "time": "2022-08-25T11:56:57+0000"
+        },
+        {
+            "rate": 2.97164,
+            "source": "NZD",
+            "target": "PLN",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 3.04808,
+            "source": "NZD",
+            "target": "RON",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 6.59276,
+            "source": "NZD",
+            "target": "SEK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.866399,
+            "source": "NZD",
+            "target": "SGD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 11.3266,
+            "source": "NZD",
+            "target": "TRY",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 22.8042,
+            "source": "NZD",
+            "target": "UAH",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.6236,
+            "source": "NZD",
+            "target": "USD",
+            "time": "2022-08-25T11:56:00+0000"
+        }
+    ],
+    "PLN": [
+        {
+            "rate": 0.77078,
+            "source": "PLN",
+            "target": "AED",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.300947,
+            "source": "PLN",
+            "target": "AUD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.411391,
+            "source": "PLN",
+            "target": "BGN",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 1.07263,
+            "source": "PLN",
+            "target": "BRL",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.271074,
+            "source": "PLN",
+            "target": "CAD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.202289,
+            "source": "PLN",
+            "target": "CHF",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 5.18432,
+            "source": "PLN",
+            "target": "CZK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 1.56453,
+            "source": "PLN",
+            "target": "DKK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.210356,
+            "source": "PLN",
+            "target": "EUR",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 0.17734,
+            "source": "PLN",
+            "target": "GBP",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 1.64669,
+            "source": "PLN",
+            "target": "HKD",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 1.58072,
+            "source": "PLN",
+            "target": "HRK",
+            "time": "2022-08-25T11:56:00+0000"
+        },
+        {
+            "rate": 85.8642,
+            "source": "PLN",
+            "target": "HUF",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 3108.97,
+            "source": "PLN",
+            "target": "IDR",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 16.7557,
+            "source": "PLN",
+            "target": "INR",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 28.6123,
+            "source": "PLN",
+            "target": "JPY",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.937988,
+            "source": "PLN",
+            "target": "MYR",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 2.02549,
+            "source": "PLN",
+            "target": "NOK",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.336349,
+            "source": "PLN",
+            "target": "NZD",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 1.0,
+            "source": "PLN",
+            "target": "PLN",
+            "time": "2022-08-25T11:57:04+0000"
+        },
+        {
+            "rate": 1.02538,
+            "source": "PLN",
+            "target": "RON",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 2.21816,
+            "source": "PLN",
+            "target": "SEK",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.291443,
+            "source": "PLN",
+            "target": "SGD",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 3.8097,
+            "source": "PLN",
+            "target": "TRY",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 7.67015,
+            "source": "PLN",
+            "target": "UAH",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.209747,
+            "source": "PLN",
+            "target": "USD",
+            "time": "2022-08-25T11:57:01+0000"
+        }
+    ],
+    "RON": [
+        {
+            "rate": 0.751333,
+            "source": "RON",
+            "target": "AED",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.293394,
+            "source": "RON",
+            "target": "AUD",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.401151,
+            "source": "RON",
+            "target": "BGN",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 1.04555,
+            "source": "RON",
+            "target": "BRL",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.264282,
+            "source": "RON",
+            "target": "CAD",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.197211,
+            "source": "RON",
+            "target": "CHF",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 5.05496,
+            "source": "RON",
+            "target": "CZK",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 1.52514,
+            "source": "RON",
+            "target": "DKK",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.205086,
+            "source": "RON",
+            "target": "EUR",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.172888,
+            "source": "RON",
+            "target": "GBP",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 1.60512,
+            "source": "RON",
+            "target": "HKD",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 1.54113,
+            "source": "RON",
+            "target": "HRK",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 83.7387,
+            "source": "RON",
+            "target": "HUF",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 3032.0,
+            "source": "RON",
+            "target": "IDR",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 16.3409,
+            "source": "RON",
+            "target": "INR",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 27.904,
+            "source": "RON",
+            "target": "JPY",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.91476,
+            "source": "RON",
+            "target": "MYR",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 1.97535,
+            "source": "RON",
+            "target": "NOK",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.328021,
+            "source": "RON",
+            "target": "NZD",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.975246,
+            "source": "RON",
+            "target": "PLN",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 1.0,
+            "source": "RON",
+            "target": "RON",
+            "time": "2022-08-25T11:57:15+0000"
+        },
+        {
+            "rate": 2.16325,
+            "source": "RON",
+            "target": "SEK",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.284228,
+            "source": "RON",
+            "target": "SGD",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 3.71538,
+            "source": "RON",
+            "target": "TRY",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 7.48021,
+            "source": "RON",
+            "target": "UAH",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.204554,
+            "source": "RON",
+            "target": "USD",
+            "time": "2022-08-25T11:57:01+0000"
+        }
+    ],
+    "SEK": [
+        {
+            "rate": 0.347317,
+            "source": "SEK",
+            "target": "AED",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.135627,
+            "source": "SEK",
+            "target": "AUD",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.18544,
+            "source": "SEK",
+            "target": "BGN",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.483325,
+            "source": "SEK",
+            "target": "BRL",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.122169,
+            "source": "SEK",
+            "target": "CAD",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.0911642,
+            "source": "SEK",
+            "target": "CHF",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 2.33675,
+            "source": "SEK",
+            "target": "CZK",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.705025,
+            "source": "SEK",
+            "target": "DKK",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.0948047,
+            "source": "SEK",
+            "target": "EUR",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.0799204,
+            "source": "SEK",
+            "target": "GBP",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.742,
+            "source": "SEK",
+            "target": "HKD",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.712417,
+            "source": "SEK",
+            "target": "HRK",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 38.7097,
+            "source": "SEK",
+            "target": "HUF",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 1401.6,
+            "source": "SEK",
+            "target": "IDR",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 7.5539,
+            "source": "SEK",
+            "target": "INR",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 12.8991,
+            "source": "SEK",
+            "target": "JPY",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.422868,
+            "source": "SEK",
+            "target": "MYR",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.91314,
+            "source": "SEK",
+            "target": "NOK",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.151634,
+            "source": "SEK",
+            "target": "NZD",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.450825,
+            "source": "SEK",
+            "target": "PLN",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.462268,
+            "source": "SEK",
+            "target": "RON",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 1.0,
+            "source": "SEK",
+            "target": "SEK",
+            "time": "2022-08-25T11:57:26+0000"
+        },
+        {
+            "rate": 0.13139,
+            "source": "SEK",
+            "target": "SGD",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 1.7175,
+            "source": "SEK",
+            "target": "TRY",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 3.45786,
+            "source": "SEK",
+            "target": "UAH",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.0945588,
+            "source": "SEK",
+            "target": "USD",
+            "time": "2022-08-25T11:57:01+0000"
+        }
+    ],
+    "SGD": [
+        {
+            "rate": 2.64343,
+            "source": "SGD",
+            "target": "AED",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 1.03225,
+            "source": "SGD",
+            "target": "AUD",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 1.41137,
+            "source": "SGD",
+            "target": "BGN",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 3.67859,
+            "source": "SGD",
+            "target": "BRL",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.929831,
+            "source": "SGD",
+            "target": "CAD",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.693919,
+            "source": "SGD",
+            "target": "CHF",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 17.785,
+            "source": "SGD",
+            "target": "CZK",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 5.36592,
+            "source": "SGD",
+            "target": "DKK",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.721559,
+            "source": "SGD",
+            "target": "EUR",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.608226,
+            "source": "SGD",
+            "target": "GBP",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 5.64732,
+            "source": "SGD",
+            "target": "HKD",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 5.42217,
+            "source": "SGD",
+            "target": "HRK",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 294.618,
+            "source": "SGD",
+            "target": "HUF",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 10667.5,
+            "source": "SGD",
+            "target": "IDR",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 57.4923,
+            "source": "SGD",
+            "target": "INR",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 98.1684,
+            "source": "SGD",
+            "target": "JPY",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 3.21842,
+            "source": "SGD",
+            "target": "MYR",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 6.94987,
+            "source": "SGD",
+            "target": "NOK",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 1.15408,
+            "source": "SGD",
+            "target": "NZD",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 3.4312,
+            "source": "SGD",
+            "target": "PLN",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 3.5183,
+            "source": "SGD",
+            "target": "RON",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 7.61094,
+            "source": "SGD",
+            "target": "SEK",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 1.0,
+            "source": "SGD",
+            "target": "SGD",
+            "time": "2022-08-25T11:57:34+0000"
+        },
+        {
+            "rate": 13.0718,
+            "source": "SGD",
+            "target": "TRY",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 26.3178,
+            "source": "SGD",
+            "target": "UAH",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.719683,
+            "source": "SGD",
+            "target": "USD",
+            "time": "2022-08-25T11:57:01+0000"
+        }
+    ],
+    "TRY": [
+        {
+            "rate": 0.202224,
+            "source": "TRY",
+            "target": "AED",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.0789674,
+            "source": "TRY",
+            "target": "AUD",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.10797,
+            "source": "TRY",
+            "target": "BGN",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.281414,
+            "source": "TRY",
+            "target": "BRL",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.0711324,
+            "source": "TRY",
+            "target": "CAD",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.0530851,
+            "source": "TRY",
+            "target": "CHF",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 1.36056,
+            "source": "TRY",
+            "target": "CZK",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.410495,
+            "source": "TRY",
+            "target": "DKK",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.0551996,
+            "source": "TRY",
+            "target": "EUR",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.0465295,
+            "source": "TRY",
+            "target": "GBP",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.432022,
+            "source": "TRY",
+            "target": "HKD",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.414798,
+            "source": "TRY",
+            "target": "HRK",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 22.5384,
+            "source": "TRY",
+            "target": "HUF",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 816.069,
+            "source": "TRY",
+            "target": "IDR",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 4.39818,
+            "source": "TRY",
+            "target": "INR",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 7.50992,
+            "source": "TRY",
+            "target": "JPY",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.246211,
+            "source": "TRY",
+            "target": "MYR",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.531668,
+            "source": "TRY",
+            "target": "NOK",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.0882875,
+            "source": "TRY",
+            "target": "NZD",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.262488,
+            "source": "TRY",
+            "target": "PLN",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.269152,
+            "source": "TRY",
+            "target": "RON",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.58224,
+            "source": "TRY",
+            "target": "SEK",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.0765004,
+            "source": "TRY",
+            "target": "SGD",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 1.0,
+            "source": "TRY",
+            "target": "TRY",
+            "time": "2022-08-25T11:57:44+0000"
+        },
+        {
+            "rate": 2.01332,
+            "source": "TRY",
+            "target": "UAH",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.055056,
+            "source": "TRY",
+            "target": "USD",
+            "time": "2022-08-25T11:57:01+0000"
+        }
+    ],
+    "UAH": [
+        {
+            "rate": 0.100443,
+            "source": "UAH",
+            "target": "AED",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.0392224,
+            "source": "UAH",
+            "target": "AUD",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.053628,
+            "source": "UAH",
+            "target": "BGN",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.139776,
+            "source": "UAH",
+            "target": "BRL",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.0353309,
+            "source": "UAH",
+            "target": "CAD",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.0263669,
+            "source": "UAH",
+            "target": "CHF",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.675778,
+            "source": "UAH",
+            "target": "CZK",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.203889,
+            "source": "UAH",
+            "target": "DKK",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.0274171,
+            "source": "UAH",
+            "target": "EUR",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.0231108,
+            "source": "UAH",
+            "target": "GBP",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.214582,
+            "source": "UAH",
+            "target": "HKD",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.206026,
+            "source": "UAH",
+            "target": "HRK",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 11.1947,
+            "source": "UAH",
+            "target": "HUF",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 405.334,
+            "source": "UAH",
+            "target": "IDR",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 2.18454,
+            "source": "UAH",
+            "target": "INR",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 3.73011,
+            "source": "UAH",
+            "target": "JPY",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.122291,
+            "source": "UAH",
+            "target": "MYR",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.264077,
+            "source": "UAH",
+            "target": "NOK",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.0438516,
+            "source": "UAH",
+            "target": "NZD",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.130376,
+            "source": "UAH",
+            "target": "PLN",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.133686,
+            "source": "UAH",
+            "target": "RON",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.289196,
+            "source": "UAH",
+            "target": "SEK",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.0379971,
+            "source": "UAH",
+            "target": "SGD",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.496691,
+            "source": "UAH",
+            "target": "TRY",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 1.0,
+            "source": "UAH",
+            "target": "UAH",
+            "time": "2022-08-25T11:57:51+0000"
+        },
+        {
+            "rate": 0.0273459,
+            "source": "UAH",
+            "target": "USD",
+            "time": "2022-08-25T11:57:01+0000"
+        }
+    ],
+    "USD": [
+        {
+            "rate": 3.67305,
+            "source": "USD",
+            "target": "AED",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 1.43431,
+            "source": "USD",
+            "target": "AUD",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 1.9611,
+            "source": "USD",
+            "target": "BGN",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 5.1114,
+            "source": "USD",
+            "target": "BRL",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 1.292,
+            "source": "USD",
+            "target": "CAD",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.9642,
+            "source": "USD",
+            "target": "CHF",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 24.7121,
+            "source": "USD",
+            "target": "CZK",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 7.45594,
+            "source": "USD",
+            "target": "DKK",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 1.0026,
+            "source": "USD",
+            "target": "EUR",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 0.84513,
+            "source": "USD",
+            "target": "GBP",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 7.84695,
+            "source": "USD",
+            "target": "HKD",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 7.5341,
+            "source": "USD",
+            "target": "HRK",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 409.372,
+            "source": "USD",
+            "target": "HUF",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 14822.5,
+            "source": "USD",
+            "target": "IDR",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 79.8855,
+            "source": "USD",
+            "target": "INR",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 136.405,
+            "source": "USD",
+            "target": "JPY",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 4.472,
+            "source": "USD",
+            "target": "MYR",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 9.65684,
+            "source": "USD",
+            "target": "NOK",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 1.60359,
+            "source": "USD",
+            "target": "NZD",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 4.76765,
+            "source": "USD",
+            "target": "PLN",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 4.88868,
+            "source": "USD",
+            "target": "RON",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 10.5754,
+            "source": "USD",
+            "target": "SEK",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 1.3895,
+            "source": "USD",
+            "target": "SGD",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 18.1633,
+            "source": "USD",
+            "target": "TRY",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 36.5686,
+            "source": "USD",
+            "target": "UAH",
+            "time": "2022-08-25T11:57:01+0000"
+        },
+        {
+            "rate": 1.0,
+            "source": "USD",
+            "target": "USD",
+            "time": "2022-08-25T11:57:59+0000"
+        }
+    ]
+}
